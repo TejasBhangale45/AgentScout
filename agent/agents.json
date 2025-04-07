@@ -1,0 +1,33 @@
+[
+    {
+      "name": "WeatherDataBot",
+      "category": "weather",
+      "description": "Provides real-time weather updates and forecasts.",
+      "skills": ["forecasting", "temperature", "humidity", "climate"]
+    },
+    {
+      "name": "SpaceExplorerAI",
+      "category": "space",
+      "description": "Assists in space mission data analysis and astronomical research.",
+      "skills": ["astronomy", "planetary science", "orbit tracking"]
+    },
+    {
+      "name": "FinanceGuru",
+      "category": "finance",
+      "description": "Offers stock market insights and economic forecasts.",
+      "skills": ["stocks", "forex", "crypto", "trading"]
+    },
+    {
+      "name": "HomeAutoBot",
+      "category": "home automation",
+      "description": "Manages and automates smart home devices.",
+      "skills": ["IoT", "automation", "device control"]
+    },
+    {
+      "name": "NewsCaster",
+      "category": "news",
+      "description": "Delivers personalized news briefings.",
+      "skills": ["news aggregation", "sentiment analysis"]
+    }
+  ]
+  
